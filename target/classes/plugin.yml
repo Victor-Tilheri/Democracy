@@ -1,0 +1,9 @@
+name: Democracy
+version: '0.1'
+main: me.apollo.democracy.Democracy
+api-version: 1.18
+description: Implements election system
+commands:
+  election:
+    description: Cria uma eleição
+    usage: /<command>
